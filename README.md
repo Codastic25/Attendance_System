@@ -163,6 +163,8 @@ emptyFileNames.py
 faceRecognition.py
 takePictures.py
 names.json
+
+
 FOR PICTURES
 •
 Folder Dataset (stock other folder of pictures of people)

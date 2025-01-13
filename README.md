@@ -50,7 +50,9 @@ work
 • Button Add Admin : will add an admin in my database
 Button Delete Admin : will delete an admin in my database
 Button Get Admin : will get all admin in my database
-• Previous button : close the actual windowwindow 5 : Page Employee (linked to the Button Add Employee)
+• Previous button : close the actual window
+
+window 5 : Page Employee (linked to the Button Add Employee)
 Name and Code to put
 •
 •

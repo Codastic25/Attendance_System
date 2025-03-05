@@ -177,3 +177,6 @@ not deleting the pictures in foler Dataset
 
 For the edit button : It changes the name of the employee but this employee is not recognized when
 he wants to log in
+
+
+Take the java class from the DatabaseAndTables package.
